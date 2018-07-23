@@ -1,0 +1,7 @@
+{
+    "WareHouse":{
+        "WareHouseCode":"仓库编码",
+        "WareHouseName":"仓库名称",
+        "WareHouseType":"仓库类型"
+    }
+}
